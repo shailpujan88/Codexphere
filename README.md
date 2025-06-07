@@ -92,10 +92,6 @@ docker-compose up --build
 
 We welcome contributions! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Thanks to all contributors who have helped make Codexphere better
