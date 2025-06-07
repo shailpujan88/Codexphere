@@ -55,8 +55,6 @@ If you have an idea for a new feature, please let us know by opening an issue on
 If you notice a spelling mistake or grammatical error in the project's documentation or comments, please correct it and submit a pull request. Thank you!
 
 ## Thank You!
-
-Thank you for contributing to Codexphere! Your efforts make a difference.
 If you have questions or need assistance, contact the project maintainers.
 
 Happy contributing!
